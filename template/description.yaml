@@ -1,0 +1,8 @@
+Type: Jupyter Notebook Extension
+Compatibility: 3.x, 4.x, 5.x, 6.x
+Name: Template
+Main: main.js
+Icon: icon.png
+Link: README.md
+Description: |
+  This extension adds a button to the toolbar allowing user to insert and run a template cell after the current cell. 
