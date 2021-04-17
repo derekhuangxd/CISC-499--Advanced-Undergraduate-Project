@@ -1,0 +1,41 @@
+
+
+
+.y_hl {background-color: #fdffb6;}
+
+
+.y_tc {color: #e9c46a;}
+
+
+
+.nina {
+    position: relative;
+    display: inline-block;
+}
+
+.hl_dropdown_content {
+    position: absolute;
+    top: 100%;
+    margin-left: 5px;
+    z-index: 1;
+}
+
+.hl_dropdown_content button {
+    background-colour: #ffffff;
+    color: black;
+    width: 70px;
+    height: 20px;
+    padding: 1px 5px;
+    text-decoration: none;
+    border: none;
+    display: block;
+    border-radius: none;
+}
+
+.hl_dropdown_content button:focus {
+    border: none;
+}
+
+div.text_cell{width: 60%;float: left;}
+div.code_cell{width: 40%;float: right;}
+div.text_cell div.prompt {display: none;}

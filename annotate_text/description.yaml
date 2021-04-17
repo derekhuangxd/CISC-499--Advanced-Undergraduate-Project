@@ -1,0 +1,9 @@
+Type: IPython Notebook Extension
+Name: Annotate Text
+Description: Dropdown buttons that provide functionality to highlight and annotate text (add comment)
+Link: README.md
+Icon: comments.png
+Main: main.js
+Compatibility: 3.x, 4.x, 5.x, 6.x
+Parameters:
+- none
