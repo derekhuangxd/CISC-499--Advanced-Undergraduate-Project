@@ -10,7 +10,7 @@ By clicking the pencil button, the notebook will insert a pre-set template cell 
 - The update function only works within same notebook, and updated template will be removed after reloading.
 
 ## Installation:
-First download this collection and cd to the folder:
+First download this collection and cd to the folder: \n
 In command/terminal:
 ```
 git clone https://github.com/JennySUNNN/CISC499-jupyternotebook-extension.git
