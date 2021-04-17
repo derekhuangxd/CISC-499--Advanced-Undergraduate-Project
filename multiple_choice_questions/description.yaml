@@ -1,0 +1,9 @@
+Type: Jupyter Notebook Extension
+Compatibility: 3.x, 4.x, 5.x, 6.x
+Name: Multiple Choice Questions
+Main: mcq_main.js
+Icon: mcq.png
+Link: README.md
+Description: Adds a button with the functionality that adds a new cell with code that allows you to create multiple choice questions.
+Parameters:
+- none
