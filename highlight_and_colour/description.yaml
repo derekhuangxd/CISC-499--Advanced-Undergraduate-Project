@@ -1,0 +1,9 @@
+Type: IPython Notebook Extension
+Name: Highlight and Colour
+Description: Dropdown buttons that provide functionality to change colour of text and highlight text 
+Link: README.md
+Icon: icon.jpg
+Main: highlight_and_colour.js
+Compatibility: 3.x, 4.x, 5.x, 6.x
+Parameters:
+- none
