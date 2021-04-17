@@ -4,6 +4,7 @@ First download this collection and cd to the folder:
 In command/terminal:
 ```
 git clone https://github.com/JennySUNNN/CISC499-jupyternotebook-extension.git
+
 cd CISC499-jupyternotebook-extension
 ```
 Next, install the extension you want:
