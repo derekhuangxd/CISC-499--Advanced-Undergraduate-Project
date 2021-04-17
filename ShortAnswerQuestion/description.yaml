@@ -1,0 +1,7 @@
+Type: Jupyter Notebook Extension
+Compatibility: 3.x, 4.x, 5.x, 6.x
+Name: Short Answer Question
+Main: main.js
+Icon: icon.png
+Link: README.md
+Description: This extension allows you to turn a cell to question, adding an answer and a solution cell. First input the solution into the solution cell. After saving and reloading/reopening the notebook, the solution will be hidden. Students can answer the question and then check the solution. 
