@@ -12,3 +12,6 @@ $ jupyter nbextension install C:\Users\derek\Desktop\nbextension --user
 
 And finally, enable the extensions you want:
 $ jupyter nbextension enable nbextension/move_to_top_bottom/main
+
+# Limitation
+Your notebook should contain no more than 1000 cells. 
