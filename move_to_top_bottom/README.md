@@ -2,6 +2,10 @@
 
 Move to the top cell or move to the bottom cell
 
+
+# Demonstration
+<img src="./move_to_top_bottom.gif" />
+
 # Installation Process
 
 First, download this and cd into the folder (here, dollar-sign represents the shell prompt):
@@ -22,5 +26,3 @@ $ jupyter nbextension enable nbextension/move_to_top_bottom/main
 # Limitation
 There should be no more than 1000 cells in your notebook. Otherwise, the move can only move 1000 cells once at a time, so you will need to click a couple more times.
 
-# Demonstration
-<img src="./move_to_top_bottom.gif" />
