@@ -9,7 +9,7 @@ For annotating purposes, this extension provides a user friendly system to add c
 Demonstration
 -------------
 
-<img src="./annotate_text.png" />
+<img src="./annotate.png" />
 
 Limitations Include: 
 -------------------
