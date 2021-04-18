@@ -39,3 +39,4 @@
 div.text_cell{width: 60%;float: left;}
 div.code_cell{width: 40%;float: right;}
 div.text_cell div.prompt {display: none;}
+div.code_cell div.prompt {display: none;}
