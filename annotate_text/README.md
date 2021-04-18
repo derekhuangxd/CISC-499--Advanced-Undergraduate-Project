@@ -12,4 +12,4 @@ Limitations Include:
 1. Unhighlighting a word wouldn't remove the annotation cell - users will have to delete the annotation cell manually afterwards.
 2. After highlighting a word, the annotation cell will always be added to the end of the document, even if that word is located at an earlier position in the paragraph.
 3. Only one markdown cell is allowed per document, and there should be no other code cells.
-4. Do not enable both *highlighter* and *annotate text* extensions at the same time
+4. Do not enable both *Highlighter* and *Annotate Text* extensions at the same time
