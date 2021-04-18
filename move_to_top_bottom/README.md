@@ -14,4 +14,4 @@ And finally, enable the extensions you want:
 $ jupyter nbextension enable nbextension/move_to_top_bottom/main
 
 # Limitation
-There should be no more than 1000 cells in your notebook. Otherwise, the move can only move 1000 cells once at a time, so you will have to click a couple more times.
+There should be no more than 1000 cells in your notebook. Otherwise, the move can only move 1000 cells once at a time, so you will need to click a couple more times.
