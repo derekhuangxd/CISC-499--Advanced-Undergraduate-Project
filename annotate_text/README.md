@@ -6,7 +6,8 @@ For annotating purposes, this extension provides a user friendly system to add c
 
 **Note:** *Enabling the extension would automatically make the page partitioned as a two-column view, where markdown (text) cells are on the left and code cells are on the right.* 
 
-# Demonstration
+Demonstration
+-------------
 
 <img src="./annotate_text.png" />
 
