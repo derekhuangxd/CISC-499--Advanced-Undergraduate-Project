@@ -1,0 +1,7 @@
+Type: IPython Notebook Extension
+Name: Move to top/bottom11
+Description: Move to the very top or the very bottom cell
+Link: README.md
+Icon: arrow-circle-up.png, arrow-circle-down.png
+Main: main.js
+Compatibility: 4.x, 5.x
