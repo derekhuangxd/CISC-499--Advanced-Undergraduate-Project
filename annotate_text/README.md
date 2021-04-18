@@ -4,7 +4,7 @@ Annotate Text (Add Comment)
 
 For annotating purposes, this extension provides a user friendly system to add comment, after highlighting words in a markdown cell. The dropdown functionality creates a familiar look and feel and it is easy to use. 
 
-**Note: After enabling the extension, the page would automatically be partitioned as a two-column mode, where markdown (text) cells are on the left while code cells are on the right.**
+**Note:** After enabling the extension, the page would automatically be partitioned as a two-column mode, where markdown (text) cells are on the left while code cells are on the right.
 
 Limitations Include: 
 -------------------
