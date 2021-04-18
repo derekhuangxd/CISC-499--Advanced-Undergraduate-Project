@@ -6,11 +6,6 @@ For annotating purposes, this extension provides a user friendly system to add c
 
 **Note:** *Enabling the extension would automatically make the page partitioned as a two-column view, where markdown (text) cells are on the left and code cells are on the right.* 
 
-Screenshot
--------------
-
-<img src="./annotate.png" />
-
 Limitations Include: 
 -------------------
 
@@ -18,3 +13,8 @@ Limitations Include:
 2. Unhighlighting a word wouldn't remove the annotation cell - users will have to delete the annotation cell manually afterwards.
 3. After highlighting a word, the annotation cell will always be added to the end of the document, even if that word is located at an earlier position in the paragraph.
 4. Do not enable both *Highlighter* and *Annotate Text* extensions at the same time
+
+Screenshot
+-------------
+
+<img src="./annotate.png" />
