@@ -1,5 +1,5 @@
 ## Installation:
-First download this collection and cd to the folder:
+First download this collection and cd to the folder: (It requires you have git installed.)
 
 In command/terminal:
 ```
