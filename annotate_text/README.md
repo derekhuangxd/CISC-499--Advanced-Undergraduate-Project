@@ -1,6 +1,5 @@
 
-Annotate Text (Add Comment)
---------------------------
+# Annotate Text (Add Comment)
 
 For annotating purposes, this extension provides a user friendly system to add comment, after highlighting words in a markdown cell. The dropdown functionality creates a familiar look and feel and it is easy to use. 
 
