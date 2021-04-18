@@ -1,6 +1,6 @@
-# Move cell to top or bottom
+# Move top or bottom cell
 
-Move the selected cell to the very top or the very bottom
+Move to the very top cell or the very bottom cell
 
 # Installation Process
 
