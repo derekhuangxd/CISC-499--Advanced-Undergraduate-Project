@@ -1,8 +1,7 @@
 ## Installation:
-Make sure you have Jupyter Notebook installed first. 
+Make sure you have Jupyter Notebook and Git installed first. 
 
-First download this collection and cd to the folder: (It requires you have git installed.)
-
+First download this collection and cd to the folder: 
 In command/terminal:
 ```
 git clone https://github.com/JennySUNNN/CISC499-jupyternotebook-extension.git
