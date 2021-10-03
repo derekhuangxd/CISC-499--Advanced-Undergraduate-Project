@@ -1,3 +1,6 @@
+--Jupyter Notebook Extensions For Teaching and Learning
+![image](https://user-images.githubusercontent.com/55966810/135775221-ef0b9d35-66fe-4fb8-94df-7c9f26273c2b.png)
+
 ## Installation:
 Make sure you have **Jupyter Notebook** and **Git** installed first. 
 
