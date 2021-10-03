@@ -1,6 +1,6 @@
 # Jupyter Notebook Extensions For Teaching and Learning
-- Implemented 6 Extensions for Jupyter Notebook
 - Group Project for Advanced Undergrauate Project course
+- Implemented 6 Extensions for Jupyter Notebook
 
 Programming Environment
 --------------------------
