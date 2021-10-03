@@ -1,6 +1,16 @@
 # Jupyter Notebook Extensions For Teaching and Learning
-Project for Advanced Undergrauate Project course, team
+Group Project for Advanced Undergrauate Project course
 
+Programming Environment
+--------------------------
+- JavaScript
+- CSS
+
+Group Members:
+--------------------------
+- Derek Huang
+- Jenny Sun
+- Andrea Mitchell
 
 ## Installation:
 Make sure you have **Jupyter Notebook** and **Git** installed first. 
