@@ -17,7 +17,9 @@ Group Members:
 - Jenny Sun
 - Andrea Mitchell
 
-- **Supervisor:** Dr. Burton Ma
+Supervisor:
+--------------------------
+- **Faculty Member:** Dr. Burton Ma, Associate Professor, QSC
 
 ## Installation:
 Make sure you have **Jupyter Notebook** and **Git** installed first. 
