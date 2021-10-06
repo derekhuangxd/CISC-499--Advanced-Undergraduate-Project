@@ -1,7 +1,7 @@
 # Jupyter Notebook Extensions For Teaching and Learning
 ![image](https://user-images.githubusercontent.com/55966810/135778838-a3c08c8f-f5b6-46ea-9878-524969f1872d.png)
+
 - Developed **6 Extensions** for Jupyter Notebook
-- **Supervisor:** Dr. Burton Ma
 - Group Project for Advanced Undergrauate Project course
 
 Programming Environment
@@ -16,6 +16,8 @@ Group Members:
 - Derek Huang
 - Jenny Sun
 - Andrea Mitchell
+
+- **Supervisor:** Dr. Burton Ma
 
 ## Installation:
 Make sure you have **Jupyter Notebook** and **Git** installed first. 
