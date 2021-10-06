@@ -4,7 +4,7 @@
 - Developed **6 Extensions** for Jupyter Notebook
 - Group Project for Advanced Undergrauate Project course
 
-Supervisor:
+Supervisor
 --------------------------
 **Faculty Member:** 
 - Dr. Burton Ma, Associate Professor, Queen's School of Computing
