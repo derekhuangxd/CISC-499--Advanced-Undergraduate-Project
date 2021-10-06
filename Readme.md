@@ -6,7 +6,8 @@
 
 Supervisor:
 --------------------------
-- **Faculty Member:** Dr. Burton Ma, Associate Professor, QSC
+**Faculty Member:** 
+- Dr. Burton Ma, Associate Professor, Queen's School of Computing
 
 Programming Environment
 --------------------------
