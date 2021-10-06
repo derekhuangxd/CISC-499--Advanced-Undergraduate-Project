@@ -1,6 +1,7 @@
 # Jupyter Notebook Extensions For Teaching and Learning
-![image](https://user-images.githubusercontent.com/55966810/135778838-a3c08c8f-f5b6-46ea-9878-524969f1872d.png)
 - **Supervisor:** Dr. Burton Ma
+![image](https://user-images.githubusercontent.com/55966810/135778838-a3c08c8f-f5b6-46ea-9878-524969f1872d.png)
+
 - Implemented **6 Extensions** for Jupyter Notebook
 - Group Project for Advanced Undergrauate Project course
 
