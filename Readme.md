@@ -4,6 +4,10 @@
 - Developed **6 Extensions** for Jupyter Notebook
 - Group Project for Advanced Undergrauate Project course
 
+Supervisor:
+--------------------------
+- **Faculty Member:** Dr. Burton Ma, Associate Professor, QSC
+
 Programming Environment
 --------------------------
 - HTML
@@ -17,9 +21,6 @@ Group Members:
 - Jenny Sun
 - Andrea Mitchell
 
-Supervisor:
---------------------------
-- **Faculty Member:** Dr. Burton Ma, Associate Professor, QSC
 
 ## Installation:
 Make sure you have **Jupyter Notebook** and **Git** installed first. 
