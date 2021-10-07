@@ -7,7 +7,7 @@
 Supervisor
 --------------------------
 **Faculty Member:** 
-- Dr. Burton Ma, Associate Professor, Queen's School of Computing
+- Dr. [Burton Ma](https://www.cs.queensu.ca/people/profile.php?firstname=Burton&lastname=Ma), Associate Professor, Queen's School of Computing
 
 Programming Environment
 --------------------------
