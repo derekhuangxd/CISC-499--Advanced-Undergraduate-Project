@@ -11,9 +11,9 @@ Supervisor
 
 Programming Environment
 --------------------------
-- HTML
-- CSS
 - JavaScript
+- CSS
+- HTML
 
 
 Group Members:
